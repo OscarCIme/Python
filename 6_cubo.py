@@ -8,5 +8,5 @@ def seis():
         cad=cad+" "+str(C)
         suma+=C
     print(cad)
-    print("La suma de los cuadrads es: ", suma)
+    print("La suma de los cubos es: ", suma)
 seis()
